@@ -1,0 +1,7 @@
+D:\Stock\Stock\Stock.BLL\bin\Debug\Stock.BLL.dll
+D:\Stock\Stock\Stock.BLL\bin\Debug\Stock.BLL.pdb
+D:\Stock\Stock\Stock.BLL\bin\Debug\Stock.DAL.dll
+D:\Stock\Stock\Stock.BLL\bin\Debug\Stock.DAL.pdb
+D:\Stock\Stock\Stock.BLL\obj\Debug\Stock.BLL.csprojResolveAssemblyReference.cache
+D:\Stock\Stock\Stock.BLL\obj\Debug\Stock.BLL.dll
+D:\Stock\Stock\Stock.BLL\obj\Debug\Stock.BLL.pdb

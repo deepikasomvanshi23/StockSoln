@@ -1,0 +1,9 @@
+D:\Stock\Stock\Stock.BLL.UnitTest\bin\Debug\Stock.BLL.UnitTest.dll
+D:\Stock\Stock\Stock.BLL.UnitTest\bin\Debug\Stock.BLL.UnitTest.pdb
+D:\Stock\Stock\Stock.BLL.UnitTest\bin\Debug\Stock.BLL.dll
+D:\Stock\Stock\Stock.BLL.UnitTest\bin\Debug\Stock.DAL.dll
+D:\Stock\Stock\Stock.BLL.UnitTest\bin\Debug\Stock.BLL.pdb
+D:\Stock\Stock\Stock.BLL.UnitTest\bin\Debug\Stock.DAL.pdb
+D:\Stock\Stock\Stock.BLL.UnitTest\obj\Debug\Stock.BLL.UnitTest.csprojResolveAssemblyReference.cache
+D:\Stock\Stock\Stock.BLL.UnitTest\obj\Debug\Stock.BLL.UnitTest.dll
+D:\Stock\Stock\Stock.BLL.UnitTest\obj\Debug\Stock.BLL.UnitTest.pdb

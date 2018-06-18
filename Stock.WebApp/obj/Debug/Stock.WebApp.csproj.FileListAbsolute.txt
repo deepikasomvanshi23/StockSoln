@@ -1,0 +1,10 @@
+D:\Stock\Stock\Stock.WebApp\bin\Stock.WebApp.dll.config
+D:\Stock\Stock\Stock.WebApp\bin\Stock.WebApp.dll
+D:\Stock\Stock\Stock.WebApp\bin\Stock.WebApp.pdb
+D:\Stock\Stock\Stock.WebApp\bin\Stock.BLL.dll
+D:\Stock\Stock\Stock.WebApp\bin\Stock.DAL.dll
+D:\Stock\Stock\Stock.WebApp\bin\Stock.BLL.pdb
+D:\Stock\Stock\Stock.WebApp\bin\Stock.DAL.pdb
+D:\Stock\Stock\Stock.WebApp\obj\Debug\Stock.WebApp.csprojResolveAssemblyReference.cache
+D:\Stock\Stock\Stock.WebApp\obj\Debug\Stock.WebApp.dll
+D:\Stock\Stock\Stock.WebApp\obj\Debug\Stock.WebApp.pdb
